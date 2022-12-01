@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manishshtestha
 - 👀 I’m interested in Programming stuff.
 - 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C projects
 
 <!---
 Manishshtestha/C programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
