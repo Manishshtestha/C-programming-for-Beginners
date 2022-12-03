@@ -18,7 +18,7 @@ int main()
 
     for (int i = 0; i < (num - 2); i++)
     {
-        printf("%d,", f + g);
+        printf("%d+", f + g);
         nxtnum = f + g;
         f = g;
         g = nxtnum;
